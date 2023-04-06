@@ -6,7 +6,7 @@ print('palavra =',palavra)
 for letras in palavra:
     if letras not in vogal:
         numerodeconsoantes = numerodeconsoantes + 1
-        print('consoantes :',letras)
+        print('consoante:',letras)
 print('número de consoantes =', numerodeconsoantes)
 
 
