@@ -6,5 +6,6 @@ mutiplicação = 1
 for valores in numerosinteiros:
     soma = soma + valores
     mutiplicação = mutiplicação * valores
+
 print ('soma dos números:',soma)
 print('mutiplicação dos números:', mutiplicação)
